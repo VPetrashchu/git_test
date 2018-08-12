@@ -1,0 +1,10 @@
+git pull
+git branch Vasitest
+git checkout Vasitest
+робимо зміни в доці або додаємо нову
+git status
+git add імя черв файлу
+git commit -m "new file added" коментар
+git push
+git checkout master
+git pull
